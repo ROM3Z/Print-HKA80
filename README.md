@@ -2,7 +2,7 @@
 Este es un proyecto que proporciona herramientas y documentación relacionada con la impresora 3D HKA80.
 
 ## Descripción
-Print-HKA80 es un conjunto de scripts y recursos diseñados para facilitar la operación y mantenimiento de la impresora 3D HKA80. Incluye utilidades para la configuración inicial, calibración y gestión de impresiones.
+Print-HKA80 es un conjunto de scripts y recursos diseñados para facilitar la operación y mantenimiento de la impresora HKA80. Incluye utilidades para la configuración inicial, gestión de impresiones fiscales y impresion de configuracion.
 
 ## Características
 Scripts de Configuración: Scripts para ayudar en la configuración inicial de la impresora.
